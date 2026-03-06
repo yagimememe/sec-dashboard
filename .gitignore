@@ -1,0 +1,15 @@
+# ダウンロードした SEC 申告書（大容量・再取得可能）
+data/
+
+# 環境変数（秘密情報）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
